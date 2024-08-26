@@ -76,7 +76,7 @@ body{
         padding: 29px;
     }
     .container{
-        border-radius: 1rem;
+        border-radius: 0;
     }
 
 }
